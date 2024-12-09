@@ -578,7 +578,7 @@
 		"pac_cac-outdated": "Your version of the %{blue}Clientside Anticheat%{reset} (%{yellow}%s%{reset}) is outdated. Please run %{yellow}pac install%{reset} to receive the latest update. (%{yellow}%s%{reset})",
 		"pac_loader-outdated": "Your version of the %{blue}Loader%{reset} (%{yellow}%s%{reset}) is outdated. Please redownload the anticheat to receive the latest update. (%{yellow}%s%{reset})",
 		"pac_emd-outdated": "Your version of the %{blue}EMD%{reset} (%{yellow}%s%{reset}) is outdated. Please run %{yellow}pac install detector%{reset} to receive the latest update. (%{yellow}%s%{reset})",
-		"pac_ep-outdated": "Your version of the %{blue}EMD%{reset} (%{yellow}%s%{reset}) is outdated. Please run %{yellow}pac install eventprotection%{reset} to receive the latest update. (%{yellow}%s%{reset})",
+		"pac_ep-outdated": "Your version of the %{blue}EP%{reset} (%{yellow}%s%{reset}) is outdated. Please run %{yellow}pac install eventprotection%{reset} to receive the latest update. (%{yellow}%s%{reset})",
 		"pac_sac-outdated": "Your version of the %{blue}Serverside Anticheat%{reset} (%{yellow}%s%{reset}) is outdated. Please restart your server to receive the latest update. (%{yellow}%s%{reset})"
 	}
 }
